@@ -1,7 +1,7 @@
 ### Hi there, I'm Leon! 👋
 
 - 🔭 I’m currently working on improving my programming skills.
-- 🌱 I’m currently learning Blockchain development.
+- 🌱 I’m currently learning ROS, VR development and IoT.
 - ⚡ Fun fact: Besides programming I am a huge fan of rockets and sailing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=generalsad&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
